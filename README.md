@@ -1,0 +1,1 @@
+This was the code me and Matt Price wrote to control an automatic ball sorter machine. The machine would test the hardness and weight of the balls and sort them accordingly. The system had 2 servo motors, 1 stepper motor and a force sensitive resistor.
